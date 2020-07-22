@@ -4,4 +4,4 @@ The project provides an introduction to international managerial finance
 
 Images are custom. Confidential information is not displayed.
 
-Please download the executable in https://github.com/alpaddesai/ProductMarketing/releases
+Please download the executable in https://github.com/alpaddesai/InternationalManagerialFinance/releases
