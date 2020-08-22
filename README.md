@@ -11,3 +11,5 @@ Please download the executable in https://github.com/alpaddesai/InternationalMan
 
 ## Mergers
 ![image](Mergers.png)
+
+Advanced knowledge : https://github.com/alpaddesai/BusinessLaw
