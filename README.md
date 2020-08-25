@@ -13,6 +13,6 @@ Please download the executable in https://github.com/alpaddesai/InternationalMan
 ![image](Mergers.png)
 
 ## Investing in foreign markets
-![image](MutualFunds.jpg)
+![image](MutualFundsCertificate.jpg)
 
 Advanced knowledge : https://github.com/alpaddesai/BusinessLaw
