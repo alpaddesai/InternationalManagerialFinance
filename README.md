@@ -16,14 +16,14 @@ Please download the executable in https://github.com/alpaddesai/InternationalMan
 ![image](MutualFundsCertificate.jpg)
 
 ## Interest
-![image](image1.png)
+![image](image1.jpg)
 
-![image](image2.png)
+![image](image2.jpg)
 
-![image](image3.png)
+![image](image3.jpg)
 
-![image](image4.png)
+![image](image4.jpg)
 
-![image](image5.png)
+![image](image5.jpg)
 
 Advanced knowledge : https://github.com/alpaddesai/BusinessLaw
