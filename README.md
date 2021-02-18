@@ -15,4 +15,15 @@ Please download the executable in https://github.com/alpaddesai/InternationalMan
 ## Investing in foreign markets
 ![image](MutualFundsCertificate.jpg)
 
+## Interest
+![image](image1.png)
+
+![image](image2.png)
+
+![image](image3.png)
+
+![image](image4.png)
+
+![image](image5.png)
+
 Advanced knowledge : https://github.com/alpaddesai/BusinessLaw
