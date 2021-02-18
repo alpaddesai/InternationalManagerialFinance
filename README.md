@@ -26,4 +26,6 @@ Please download the executable in https://github.com/alpaddesai/InternationalMan
 
 ![image](image5.jpg)
 
+![image](image6.jpg)
+
 Advanced knowledge : https://github.com/alpaddesai/BusinessLaw
