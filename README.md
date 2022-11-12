@@ -30,4 +30,6 @@ Please download the executable in https://github.com/alpaddesai/InternationalMan
 
 ![image](USCopyrightCertificate.png)
 
+![image](Ethics.jpg)
+
 Advanced knowledge : https://github.com/alpaddesai/BusinessLaw and https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
