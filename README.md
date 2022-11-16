@@ -31,8 +31,10 @@ Please download the executable in https://github.com/alpaddesai/InternationalMan
 ## Exams
 ![image](CFAExam.jpg)
 
+## Copyright Certification
 ![image](USCopyrightCertificate.png)
 
+## Ethics
 ![image](Ethics.jpg)
 
 Advanced knowledge : https://github.com/alpaddesai/BusinessLaw and https://github.com/alpaddesai/BusinessDevelopmentMergersAcquisitionsIdea
