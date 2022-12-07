@@ -28,13 +28,13 @@ Please download the executable in https://github.com/alpaddesai/InternationalMan
 
 ![image](image6.jpg)
 
-![image](MutualFundsIndiaPresentationAlpaDesai1.jpg)
+![image](MutualFundsIndiaPresentationAlpaDesai1.JPG)
 
-![image](MutualFundsIndiaPresentationAlpaDesai2.jpg)
+![image](MutualFundsIndiaPresentationAlpaDesai2.JPG)
 
-![image](MutualFundsIndiaPresentationAlpaDesai3.jpg)
+![image](MutualFundsIndiaPresentationAlpaDesai3.JPG)
 
-![image](MutualFundsIndiaPresentationAlpaDesai4.jpg)
+![image](MutualFundsIndiaPresentationAlpaDesai4.JPG)
 
 ## Exams
 ![image](CFAExam.jpg)
