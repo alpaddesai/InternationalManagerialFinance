@@ -28,7 +28,7 @@ Please download the executable in https://github.com/alpaddesai/InternationalMan
 
 ![image](image6.jpg)
 
-![image](MutualFundsIndiaPresentationAlpaDesai1.JPG)
+![image](MutualFundsIndiaPresentationAlpaDesai.jpg)
 
 ![image](Mutual Funds India Presentation Alpa Desai.jpg)
 
