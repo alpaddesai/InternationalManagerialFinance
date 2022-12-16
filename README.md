@@ -45,4 +45,4 @@ Please download the executable in https://github.com/alpaddesai/InternationalMan
 ## Ethics
 ![image](Ethics.jpg)
 
-Advanced knowledge : https://github.com/alpaddesai/BusinessLaw, https://github.com/alpaddesai/InvestmentPortfolio, and https://github.com/alpaddesai/FinancialAccountingIdea.
+Advanced knowledge : https://github.com/alpaddesai/BusinessLaw and https://github.com/alpaddesai/InvestmentPortfolio 
