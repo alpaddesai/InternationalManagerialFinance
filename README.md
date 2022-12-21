@@ -28,9 +28,6 @@ Please download the executable in https://github.com/alpaddesai/InternationalMan
 
 ![image](image6.jpg)
 
-## Exams
-![image](CFAExam.jpg)
-
 ## Copyright Certification
 ![image](USCopyrightCertificate.png)
 
